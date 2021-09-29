@@ -3,6 +3,6 @@ d <- read.csv('pubs.csv',header=T)
 library(ggplot2)
 
 qplot(factor(year),data=d,geom="bar",fill=factor(cat),xlab="Year",ylab="Count") + 
-  scale_fill_brewer(name="Area",palette="Set3") + ggtitle("Publications") + 
+  scale_fill_brewer(name="Area",palette="Set3") + ggtitle("Peer-Reviewed Publications") + 
   theme(plot.background=element_rect(fill = "transparent",colour = NA))
-ggsave("pubs.jpg")
+ggsave("pubs.jpg",width=10,height=3)
