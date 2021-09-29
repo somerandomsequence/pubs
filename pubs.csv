@@ -1,0 +1,97 @@
+﻿id,year,cat
+J37,2021,Transportation
+J36,2021,Transportation
+J35,2021,Transportation
+J34,2021,Wind Energy
+J33,2021,Medicine
+J32,2021,Medicine
+J31,2021,Transportation
+C35,2021,Transportation
+C34,2021,Transportation
+C33,2020,Wind Energy
+C32,2020,Transportation
+C31,2020,Transportation
+J31,2020,Medicine
+J30,2020,Wind Energy
+C31,2020,Wind Energy
+C30,2020,Transportation
+C29,2020,Transportation
+C28,2020,Transportation
+J29,2019,Materials Science
+J28,2019,Medicine
+J27,2019,Medicine
+J26,2019,Materials Science
+J25,2019,Medicine
+J24 ,2018,Medicine
+J23,2018,Medicine
+J22,2018,Medicine
+J21,2018,Geospatial Analysis
+C26,2018,Wind Energy
+C25,2018,Wind Energy
+J20,2018,Materials Science
+J19,2018,Materials Science
+C24,2018,Transportation
+C23,2018,Transportation
+C22,2018,Materials Science
+C20,2018,High Performance Computing
+J18,2018,Geospatial Analysis
+R18,2017,Food Recovery
+R19,2017,Food Recovery
+J17,2017,Ecology
+J16,2017,Medicine
+J15,2017,Medicine
+J14,2017,Geospatial Analysis
+J13,2017,High Performance Computing
+J12,2017,Medicine
+J11,2016,Medicine
+J10,2016,Medicine
+J9,2015,Medicine
+J8,2015,Medicine
+C19,2015,Medicine
+C18,2015,Medicine
+C17,2015,Medicine
+J7,2015,Medicine
+C16,2015,Medicine
+J6,2014,Wireless Networking
+J3,2013,Wireless Networking
+C15,2012,Wireless Networking
+O3,2012,Wireless Networking
+J4,2012,Wireless Networking
+O2,2012,Wireless Networking
+T7,2011,Wireless Networking
+O1,2011,Wireless Networking
+C14,2011,Wireless Networking
+C13,2011,Wireless Networking
+C12,2011,Wireless Networking
+J1,2010,Wireless Networking
+T5,2010,Wireless Networking
+C10,2010,Wireless Networking
+C9,2009,Wireless Networking
+C8,2009,Wireless Networking
+C7,2009,Wireless Networking
+C6,2009,Wireless Networking
+T3,2009,Wireless Networking
+C5,2008,Wireless Networking
+C4,2008,Wireless Networking
+C3,2008,Wireless Networking
+C2,2008,Wireless Networking
+T2,2008,Wireless Networking
+C1,2007,Wireless Networking
+T1,2007,Wireless Networking
+T12,2016,Food Recovery
+J5,2013,Food Recovery
+T9,2012,Food Recovery
+T6,2011,Food Recovery
+T13,2016,Transportation
+O5,2016,High Performance Computing
+O4,2016,High Performance Computing
+C21,2016,High Performance Computing
+T11,2016,High Performance Computing
+C20,2016,Materials Science
+T12,2016,Geospatial Analysis
+T14,2016,Geospatial Analysis
+T10,2015,Geospatial Analysis
+J2,2012,Nonlinear Dynamics
+T8,2011,Nonlinear Dynamics
+C11,2010,Nonlinear Dynamics
+T4,2009,Nonlinear Dynamics
